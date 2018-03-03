@@ -1,5 +1,3 @@
-# Markov Maze
-
 # The Maze // Final Project of [Computer Tutorial in Markov Modeling, WS17/18](http://www.mi.fu-berlin.de/w/CompMolBio/EmmaSeminar17_18)
 by Mustafa Emre Coltu, H. Altuğ Yıldırım, Kenichi Maeda, Jakob Roßbach
 

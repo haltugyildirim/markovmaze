@@ -1,5 +1,12 @@
 # Markov Maze
 
+# The Maze // Final Project of [Computer Tutorial in Markov Modeling, WS17/18](http://www.mi.fu-berlin.de/w/CompMolBio/EmmaSeminar17_18)
+by Mustafa Emre Coltu, H. Altuğ Yıldırım, Kenichi Maeda, Jakob Roßbach
+
+Another version of the same project can be found in [here](https://github.com/JlR1/markovmaze) by Jakob.
+
+Documentation related to PyEmma project can be found in [here](http://emma-project.org/latest/).
+
 ## Question:
 Consider an unbiased random walk in a maze with one entry and one exit.
 Find a way to generate a maze and to represent the random walk in it as a
